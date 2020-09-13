@@ -1,0 +1,9 @@
+1. View controller-based status bar appearance info.plist
+2. General Settings 
+   Requires full screen
+   Supports multiple windows
+3. if let scene = SKScene(fileNamed: "GameScene") 
+    {
+        scene.scaleMode = .resizeFill ????????????? What does it mean .aspectFill .aspectFit .Fill        
+    }
+4. 
